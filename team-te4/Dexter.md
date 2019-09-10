@@ -1,10 +1,10 @@
 # _Om mig_ #
 Jag heter Dexter och är 19 år gammal. Jag flyttade till Sverige när jag var 12 år. På min firtid brukar jag vanligtvis 
-* spela basket 
-* hänga med kompisar 
-* kolla på filmer 
-* spela spel 
-* gymma
+* Spela basket 
+* Hänga med kompisar 
+* Kolla på filmer 
+* Spela spel 
+* Gymma
 
-Jag gillar också lyssna på hiphop musik. Jag valde T4 eftersom jag tänker att det är bra merit och det är inte heller så lång utbildning. En av de anledningen varför jag har valt denna utbildningen är för att jag tänkte söka lumpen nästa år.
+Jag gillar också lyssna på hiphop musik. Jag valde T4 eftersom jag tänkte att det är en bra merit och utbildning tar inte heller lång tid. Jag valde också T4 därför att jag tänkte söka lumpen nästa år.
 I slutet av denna utbildningen vill jag känna mig bra. Jag vill vara ännu *__mognare__* och jag vill också ha *__mer kunskap om programmering__*.
